@@ -1,0 +1,15 @@
+C:\Users\Fabio\source\repos\LegendTaskManager2.0\LegendTaskManager2.0\bin\Debug\LegendTaskManager2.0.exe.config
+C:\Users\Fabio\source\repos\LegendTaskManager2.0\LegendTaskManager2.0\bin\Debug\LegendTaskManager2.0.exe
+C:\Users\Fabio\source\repos\LegendTaskManager2.0\LegendTaskManager2.0\bin\Debug\LegendTaskManager2.0.pdb
+C:\Users\Fabio\source\repos\LegendTaskManager2.0\LegendTaskManager2.0\obj\Debug\LegendTaskManager2.0.csproj.AssemblyReference.cache
+C:\Users\Fabio\source\repos\LegendTaskManager2.0\LegendTaskManager2.0\obj\Debug\LegendTaskManager2.0.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fabio\source\repos\LegendTaskManager2.0\LegendTaskManager2.0\obj\Debug\LegendTaskManager2._0.Form1.resources
+C:\Users\Fabio\source\repos\LegendTaskManager2.0\LegendTaskManager2.0\obj\Debug\LegendTaskManager2._0.Form2.resources
+C:\Users\Fabio\source\repos\LegendTaskManager2.0\LegendTaskManager2.0\obj\Debug\LegendTaskManager2._0.Form3.resources
+C:\Users\Fabio\source\repos\LegendTaskManager2.0\LegendTaskManager2.0\obj\Debug\LegendTaskManager2._0.Form4.resources
+C:\Users\Fabio\source\repos\LegendTaskManager2.0\LegendTaskManager2.0\obj\Debug\LegendTaskManager2._0.Form5.resources
+C:\Users\Fabio\source\repos\LegendTaskManager2.0\LegendTaskManager2.0\obj\Debug\LegendTaskManager2._0.Properties.Resources.resources
+C:\Users\Fabio\source\repos\LegendTaskManager2.0\LegendTaskManager2.0\obj\Debug\LegendTaskManager2.0.csproj.GenerateResource.cache
+C:\Users\Fabio\source\repos\LegendTaskManager2.0\LegendTaskManager2.0\obj\Debug\LegendTaskManager2.0.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\source\repos\LegendTaskManager2.0\LegendTaskManager2.0\obj\Debug\LegendTaskManager2.0.exe
+C:\Users\Fabio\source\repos\LegendTaskManager2.0\LegendTaskManager2.0\obj\Debug\LegendTaskManager2.0.pdb
